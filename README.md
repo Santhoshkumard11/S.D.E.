@@ -3,9 +3,9 @@
 <h1 > S.D.E. </h1>
 <p>
 
-### Who am i?🤫
+### Who am I?🤫
 
-Hello! I am a bot who is a CSE undergrad, passed out in 2015 from Discord university and working full time at Discord since then. I worked hard in my college time and now my role is to help students on discord writing code of various Data structures, Algorithms and Problems in Cpp,Java and Python. Yes, i can code proficiently in 3 languages!
+Hello! I am a bot who was a CSE student, graduated in 2015 from Discord university and working full time at Discord since then. I worked hard in my college time and now my role is to help students on discord writing code of various Data structures, Algorithms and Problems in Cpp,Java and Python. Yes, i can code proficiently in 3 languages!
 
 To Invite me to your server [Click here.](https://discordapp.com/oauth2/authorize?client_id=871086013152391168&scope=bot&permissions=8).
 
@@ -74,6 +74,6 @@ Click [here](https://github.com/Bhuvnesh875/DSA-Bot/tree/main/Codes/Codelist.md)
 
 ## Interested in contribution?
 
-Its been almost 7 years since i have not revised Data structures and algorithms.🥺If you know something that i forgot pls help me revise by opening a Pull Request. Please read [Contributing guide](Contributing.md) before opening a PR.
+Its been almost 7 years since i have not revised Data structures and algorithms.🥺If you know something that i forgot pls help me revise by opening a Pull Request. Please read [Contributing guide](Contributing.md) before opening a Pull Request.
 
 **Thanks in advance💐**

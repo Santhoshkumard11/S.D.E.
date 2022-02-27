@@ -50,7 +50,7 @@ client.on("ready", () => {
       serverlist += 1;
     });
     message.channel.send(
-      "DSA-Bot is currently running in " + serverlist + " servers!!"
+      "I am currently helping in " + serverlist + " servers!!😗 "
     );
   });
 

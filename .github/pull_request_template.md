@@ -1,3 +1,5 @@
+<!-- Do not delete this template ,edit in this template only --!>
+
 <!--
 Thank you for contributing to this project! You must fill out the information below before we can review this pull request. By explaining why you're making a change (or linking to a pull request) and what changes you've made, we can triage your pull request to the best possible team for review.
 
@@ -16,10 +18,10 @@ Thanks again!
 
 ### Check off the following(replace # with x):
 
+- [#] I have Read and followed all the steps of [Contributing guide](https://github.com/Bhuvnesh875/S.D.E./blob/main/Contributing.md) before opening this pull request
 - [#] I have self-reviewed my code.
 - [#] I have written neat Code with proper comments.
 - [#] My code is working perfectly and causing no error/s.
-- [#] I have Read and followed all the steps of [Contributing guide](https://github.com/Bhuvnesh875/S.D.E./blob/main/Contributing.md) before opening this pull request
 
 Referenced issue : #
 

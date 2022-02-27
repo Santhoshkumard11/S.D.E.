@@ -12,7 +12,7 @@ To contribute to DSA and problems, follow the steps below:
 
 - **Step 1 : Fork the Repo.**
 - **Step 2 : Clone your forked repo in your system and run `npm i` in the same folder to install the dependencies.**
-- **Step 3 : Create a new branch or switch to development.**
+- **Step 3 : Create a new branch or switch to developement branch.**
 - **Step 4 : If your code is a Data structure's code (else skip this step):**
 
   - Go to `./Commands/DSlist.js` and write the topic for which you want to add the code in the correct format in **value** section of **addFields** along with a number preceding the previous number in (). For example:
@@ -123,6 +123,6 @@ To contribute to the main features of the bot:
 - **Step 7 : Push it to your forked repo.**
 - **Step 8 : Create a Pull request with the new branch giving details of your changes.**
 
-#### Still confused aboused something? Open an issue and get your doubts cleared.
+#### Still confused about something? Open an issue and get your doubts cleared.
 
 ## Happy contributing:tada:
