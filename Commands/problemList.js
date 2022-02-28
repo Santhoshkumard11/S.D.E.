@@ -4,8 +4,8 @@ const Embed3 = new Discord.MessageEmbed()
   .setAuthor("S.D.E.", "https://i.ibb.co/HdBBqG1/mob-dark.png")
 
   .addFields({
-    name: "Problems(p-code):",
-    value: "`◽Search In Matrix(001)\n``◽Spiral Print(002)\n`",
+    name: "Problems (p-code):",
+    value: "`◽Search In Matrix (001)\n``◽Spiral Print (002)\n`",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",

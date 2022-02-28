@@ -4,9 +4,9 @@ const Embed3 = new Discord.MessageEmbed()
   .setAuthor("S.D.E.", "https://i.ibb.co/HdBBqG1/mob-dark.png")
 
   .addFields({
-    name: "Data Structures(ds-code):",
+    name: "Data Structures (ds-code):",
     value:
-      "`◽Arrays(001)\n``◽CircularLL(002)\n``◽CircularDoublyLL(003)\n``◽DoublyLL(004)\n``◽QueueUsingArray(005)\n``◽QueueUsingLL(006)\n``◽SinglyLL(007)\n``◽StackUsingArray(008)\n``◽StackUsingLL(009)\n`",
+      "◽Arrays (001)\n◽Circular LL (002)\n◽Circular Doubly LL (003)\n◽Doubly LL (004)\n◽Queue Using Array (005)\n◽Queue Using LL (006)\n◽Singly LL (007)\n◽Stack Using Array (008)\n◽Stack Using LL (009)\n",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",

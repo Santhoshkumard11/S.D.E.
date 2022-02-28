@@ -4,8 +4,8 @@ const Embed3 = new Discord.MessageEmbed()
   .setAuthor("S.D.E.", "https://i.ibb.co/HdBBqG1/mob-dark.png")
 
   .addFields({
-    name: "Algorithms(algo-code):",
-    value: "`◽BinarySearch(001)\n``◽LinearSearch(002)\n`",
+    name: "Algorithms (algo-code):",
+    value: "`◽Binary Search (001)\n``◽Linear Search (002)\n`",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",
