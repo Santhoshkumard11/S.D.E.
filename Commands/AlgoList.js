@@ -5,7 +5,7 @@ const Embed3 = new Discord.MessageEmbed()
 
   .addFields({
     name: "Algorithms (algo-code):",
-    value: "`◽Binary Search (001)\n``◽Linear Search (002)\n`",
+    value: "◽Binary Search (001)\n◽Linear Search (002)\n",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",

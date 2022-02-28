@@ -5,7 +5,7 @@ const Embed3 = new Discord.MessageEmbed()
 
   .addFields({
     name: "Problems (p-code):",
-    value: "`◽Search In Matrix (001)\n``◽Spiral Print (002)\n`",
+    value: "◽Search In Matrix (001)\n◽Spiral Print (002)\n",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",
