@@ -21,7 +21,7 @@ To contribute to DSA and problems, follow the steps below:
   .addFields(
   {
     name: "Data Structures(ds-code):",
-    value: "`◽Arrays (001)\n``◽Circular LL (002)\n``◽YourDSTopic (003)\n`",
+    value: "◽Arrays (001)\n◽Circular LL (002)\n◽YourDSTopic (003)\n",
   },
   )
   ```
@@ -51,7 +51,7 @@ To contribute to DSA and problems, follow the steps below:
   .addFields(
   {
     name: "Algorithms(algo-code):",
-    value: "`◽BinarySearch(001)\n``◽LinearSearch(002)\n``◽YourAlgoTopic(003)\n`",
+    value: "◽Binary Search (001)\n◽Linear Search (002)\n◽YourAlgoTopic (003)\n",
   },
   )
   ```
@@ -81,7 +81,7 @@ To contribute to DSA and problems, follow the steps below:
   .addFields(
   {
     name: "Problems (p-code):",
-    value: "`◽Search In Matrix(001)\n``◽Spiral Print(002)\n``◽YourProblemName(003)\n`",
+    value: "◽Search In Matrix (001)\n◽Spiral Print (002)\n◽YourProblemName (003)\n",
   },
   )
   ```
