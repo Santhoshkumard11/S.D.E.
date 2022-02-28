@@ -22,11 +22,12 @@ Click [here](https://github.com/Bhuvnesh875/DSA-Bot/tree/main/Codes/Codelist.md)
 
 ### **Built using:**
 
+- Express.js
 - Discord Js
 
 ### **Hosting:**
 
-- Heroku
+- Replit
 
 <br/>
 
@@ -40,15 +41,15 @@ Click [here](https://github.com/Bhuvnesh875/DSA-Bot/tree/main/Codes/Codelist.md)
 
 **"+"** - To see what i can do.😌
 
-**"+DSlist"** - Will send the list of data structures' topics which i still remember. 🥲
+**"+listds"** - Will send the list of data structures' topics which i still remember. 🥲
 
 **"+ds \<ds code> in \<language>"** - Will provide program for the specified ds code in specified language.
 
-**"+AlgoList"** - Will send the list of the Algorithms which i can still think of.🤔
+**"+listalgo"** - Will send the list of the Algorithms which i can still think of.🤔
 
 **"+algo \<algo code> in \<language>"** - Will provide program for the specified algo code in specified language.
 
-**"+problemList"** - Will send the list of Coding Problems which i can still solve.😎
+**"+listproblems"** - Will send the list of Coding Problems which i can still solve.😎
 
 **"+problem \<problem code> in \<language>"** - Will provide program for the specified ds code in specified language.
 
@@ -58,13 +59,13 @@ Click [here](https://github.com/Bhuvnesh875/DSA-Bot/tree/main/Codes/Codelist.md)
 
 **"+leetcode"** - Will tell you about all the upcoming and ongoing coding contests on Leetcode.
 
-**"+cc / +clearchanel"** - Will clear the recent conversation of that channel.
+**"+cc / +purge"** - Will clear the recent conversation of that channel.
 
-**"+serverInfo"** - Will displays all the information about your server.
+**"+serverinfo"** - Will displays all the information about your server.
 
 **"+invite"** - Will Dm to invite me to your server.
 
-**"+serverCount"** - Will tell the count of servers i am helping in.
+**"+servercount"** - Will tell the count of servers i am helping in.
 
 **"+version"** - Will tell you my current version.
 
