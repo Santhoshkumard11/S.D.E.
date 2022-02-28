@@ -77,4 +77,4 @@ Click [here](https://github.com/Bhuvnesh875/DSA-Bot/tree/main/Codes/Codelist.md)
 
 Its been almost 7 years since i have not revised Data structures and algorithms.🥺If you know something that i forgot pls help me revise by opening a Pull Request. Please read [Contributing guide](Contributing.md) before opening a Pull Request.
 
-**Thanks in advance💐**
+## Thanks in advance💐
