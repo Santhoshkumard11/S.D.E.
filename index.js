@@ -25,7 +25,7 @@ client.on("ready", () => {
   client.setMaxListeners(0);
   console.log(`${client.user.tag} has logged in.`);
 
-  command(client, ["cc", "clearchannel"], (message) => {
+  command(client, ["cc", "purge"], (message) => {
     cc(message);
   });
 
@@ -40,11 +40,11 @@ client.on("ready", () => {
     message.channel.send(topics);
   });
 
-  command(client, "serverInfo", (message) => {
+  command(client, "serverinfo", (message) => {
     serverinfo(message);
   });
 
-  command(client, "serverCount", (message) => {
+  command(client, "servercount", (message) => {
     let serverlist = 0;
     client.guilds.cache.forEach((guild) => {
       serverlist += 1;
@@ -75,15 +75,15 @@ client.on("ready", () => {
     SendAlgo(message);
   });
 
-  command(client, "problemsList", (message) => {
+  command(client, "listproblems", (message) => {
     message.channel.send(problemList);
   });
 
-  command(client, "Algolist", (message) => {
+  command(client, "listalgo", (message) => {
     message.channel.send(Algolist);
   });
 
-  command(client, "DSlist", (message) => {
+  command(client, "listds", (message) => {
     message.channel.send(DSlist);
   });
 
