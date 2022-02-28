@@ -11,7 +11,7 @@ Contributing to this repo is divided into two parts:
 To contribute to DSA and problems, follow the steps below:
 
 - **Step 1 : Fork the Repo.**
-- **Step 2 : Clone your forked repo in your system and run `npm i` in the same folder to install the dependencies.**
+- **Step 2 : Clone your forked repo in your system.**
 - **Step 3 : Create a new branch or switch to developement branch.**
 - **Step 4 : If your code is a Data structure's code (else skip this step):**
 
@@ -21,7 +21,7 @@ To contribute to DSA and problems, follow the steps below:
   .addFields(
   {
     name: "Data Structures(ds-code):",
-    value: "`◽Arrays(001)\n``◽CircularLL(002)\n``◽YourDSTopic(003)\n`",
+    value: "`◽Arrays (001)\n``◽Circular LL (002)\n``◽YourDSTopic (003)\n`",
   },
   )
   ```
@@ -117,7 +117,7 @@ To contribute to the main features of the bot:
 - **Step 1 : Raise an issue**
 - **Step 2 : Wait for approval and getting it assigned**
 - **Step 3 : Fork the Repo.**
-- **Step 4 : Clone your forked repo in your system.**
+- **Step 4 : Clone your forked repo and set it up in your system.**
 - **Step 5 : Create a new branch.**
 - **Step 6 : Do your changes.**
 - **Step 7 : Push it to your forked repo.**
