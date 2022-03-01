@@ -45,7 +45,7 @@ This list contains list of all the codes that are already added or will be added
 | Hauffman coding          | :white_large_square: | :white_large_square: | :white_large_square: |
 | Heap Sort                | :white_large_square: | :white_large_square: | :white_large_square: |
 | Hierholzer's Algorithm   | :white_large_square: | :white_large_square: | :white_large_square: |
-| Insertion Sort           | :white_large_square: | :white_large_square: | :white_large_square: |
+| Insertion Sort           | :white_large_square: | :white_check_mark:   | :white_large_square: |
 | Interpolation Search     | :white_large_square: | :white_large_square: | :white_large_square: |
 | Johnson's Algorithm      | :white_large_square: | :white_large_square: | :white_large_square: |
 | Jump Search              | :white_large_square: | :white_large_square: | :white_large_square: |
