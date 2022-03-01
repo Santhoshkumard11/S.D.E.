@@ -17,7 +17,7 @@ const Embed2 = new Discord.MessageEmbed()
     {
       name: "Please help me revise code for some topics as my memory is not that strong.😟 This time I will write it somewhere so that i don't forget it. Thanks in advance.🍭",
       value:
-        "Click[ here](https://github.com/Bhuvnesh875/DSA-Bot/blob/main/Contributing.md) and open a PR!\n",
+        "Click[ here](https://github.com/Bhuvnesh875/S.D.E./blob/main/Contributing.md) and open a PR!\n",
     },
     {
       name: "Wanna watch me grow old?",

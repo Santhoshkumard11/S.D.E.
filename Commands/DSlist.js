@@ -4,13 +4,12 @@ const Embed3 = new Discord.MessageEmbed()
   .setAuthor("S.D.E.", "https://i.ibb.co/HdBBqG1/mob-dark.png")
 
   .addFields({
-    name: "Data Structures (ds-code):",
+    name: "Data Structures [Available In] (ds-code):",
     value:
-      "◽Arrays (001)\n◽Circular LL (002)\n◽Circular Doubly LL (003)\n◽Doubly LL (004)\n◽Queue Using Array (005)\n◽Queue Using LL (006)\n◽Singly LL (007)\n◽Stack Using Array (008)\n◽Stack Using LL (009)\n",
+      "◽Arrays [Cpp] (001)\n◽Circular LL [Cpp] (002)\n◽Circular Doubly LL [Cpp] (003)\n◽Doubly LL [Cpp/Java/Python] (004)\n◽Queue Using Array [Cpp/Java/Python] (005)\n◽Queue Using LL [Cpp/Java/Python] (006)\n◽Singly LL [Cpp/Java/Python] (007)\n◽Stack Using Array [Cpp/Java/Python] (008)\n◽Stack Using LL [Cpp/Java/Python] (009)\n",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",
-
     "https://i.ibb.co/HdBBqG1/mob-dark.png"
   );
 
