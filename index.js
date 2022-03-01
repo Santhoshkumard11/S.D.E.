@@ -152,7 +152,7 @@ client.on("ready", () => {
 
 client.on("guildCreate", (guild) => {
   guild.systemChannel.send(
-    "Hello, I'm S.D.E. ! Thanks for inviting me, I am here to you help you write code for various Data structures, Algorithms and coding problems!\n\nTo see list of all the commands I listen to ,say '+'\n\nJust in case you want to see me grow me old, you can join my development server :  https://bit.ly/3vpfZOx",
+    "Hello, I'm S.D.E. ! Thanks for inviting me, I am here to provide code for various Data structures, Algorithms and coding problems!\n\nTo see list of all the commands I listen to ,say '+'\n\nJust in case you want to see me grow me old, you can join my development server :  https://bit.ly/3vpfZOx",
     { files: ["https://i.ibb.co/P1WgdnS/sde.png"] }
   );
 });
