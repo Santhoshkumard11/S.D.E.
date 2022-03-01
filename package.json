@@ -1,6 +1,6 @@
 {
   "name": "S.D.E.",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "I provide best resources to learn DSA with fun! ",
   "main": "index.js",
   "dependencies": {
