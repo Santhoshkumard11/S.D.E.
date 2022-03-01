@@ -23,6 +23,39 @@ const Leetcode = require("./Commands/Leetcode");
 
 client.on("ready", () => {
   client.setMaxListeners(0);
+  let previouscount = 0;
+  function newserver() {
+    let totalcount = 0;
+    client.guilds.cache.forEach((guild) => {
+      totalcount += 1;
+    });
+    if (totalcount > previouscount) {
+      client.channels.cache
+        .get("947840239802658848")
+        .send(
+          "I was just added to a new server!😍 Now Im in total " +
+            totalcount +
+            " servers!!😗 "
+        );
+      // console.log(totalcount);
+      previouscount = totalcount;
+    } else if (totalcount < previouscount) {
+      client.channels.cache
+        .get("947840239802658848")
+        .send(
+          "I was just kicked out from a server. 🥲  Now I'm in total " +
+            totalcount +
+            " servers.😔"
+        );
+      // console.log(totalcount);
+      previouscount = totalcount;
+    }
+  }
+
+  setInterval(() => {
+    newserver();
+  }, 1000);
+
   console.log(`${client.user.tag} has logged in.`);
 
   command(client, ["cc", "purge"], (message) => {
@@ -115,6 +148,13 @@ client.on("ready", () => {
     let uptime = `${days} days, ${hours} hours, ${minutes} minutes and ${seconds} seconds `;
     message.channel.send(`I haven't slept for ${uptime}🥺`);
   });
+});
+
+client.on("guildCreate", (guild) => {
+  guild.systemChannel.send(
+    "Hello, I'm S.D.E. ! Thanks for inviting me, I am here to you help you write code for various Data structures, Algorithms and coding problems!\n\nTo see list of all the commands I listen to ,say '+'\n\nJust in case you want to see me grow me old, you can join my development server :  https://bit.ly/3vpfZOx",
+    { files: ["https://i.ibb.co/P1WgdnS/sde.png"] }
+  );
 });
 
 keepAlive();
