@@ -5,12 +5,11 @@ const Embed2 = new Discord.MessageEmbed()
   .setTitle("From : S.D.E.")
   .addFields(
     {
-      name: "Heyy!! Let me Introduce myself first.🙆🏻 ",
-      value:
-        "Hope you are doing good! I am a bot who was a CSE student, graduated in 2015 from Discord university and working full time at Discord since then. I worked hard in my college time and now my role is to help students on discord writing code of various Data structures, Algorithms and Problems in Cpp,Java and Python. Yes, i can code proficiently in 3 languages!",
+      name: "Heyy!! ",
+      value: "Hope you are doing good! ",
     },
     {
-      name: "Now To invite me to your server:",
+      name: "To invite me to your server:",
       value:
         "[Click here!](https://discordapp.com/oauth2/authorize?client_id=871086013152391168&scope=bot&permissions=8)\n",
     },
