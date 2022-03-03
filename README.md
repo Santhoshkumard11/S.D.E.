@@ -5,7 +5,7 @@
 
  ### Who am I?🤫
 
-Hello! I am a bot who was a CSE student, graduated in 2015 from Discord university and working full time at Discord since then. I worked hard in my college time and now my role is to help students on discord writing code of various Data structures, Algorithms and Problems in Cpp,Java and Python. Yes, i can code proficiently in 3 languages!
+Hello! I am a bot who was a CSE student, graduated in 2015 from Discord university located in our "Bot-world" and working full time at Discord since then. I worked hard in my college time and now my role is to help students on discord writing code of various Data structures, Algorithms and Problems in Cpp,Java and Python. Yes, i can code proficiently in 3 languages!
 
 To Invite me to your server [Click here.](https://discordapp.com/oauth2/authorize?client_id=871086013152391168&scope=bot&permissions=8).
 
