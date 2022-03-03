@@ -6,7 +6,7 @@ const Embed3 = new Discord.MessageEmbed()
   .addFields({
     name: "Algorithms [Available In] (algo-code):",
     value:
-      "◽Binary Search [Cpp/Java/Python] (001)\n◽Insertion Sort [Cpp] (003)\n◽Linear Search [Cpp/Java/Python] (002)\n",
+      "◽Binary Search [Cpp/Java/Python] (001)\n◽Heap Sort [Cpp/Java/Python] (009)\n◽Iterative Insertion Sort [Cpp/Java/Python] (003)\n◽Iterative Merge Sort [Cpp/Java/Python] (006)\n◽Iterative Quick Sort [Cpp/Java/Python] (008)\n◽Linear Search [Cpp/Java/Python] (002)\n◽Recursive Insertion Sort [Cpp/Java/Python] (004)\n◽Recursive Merge Sort [Cpp/Java/Python] (005)\n◽Recursive Quick Sort [Cpp/Java/Python] (007)\n",
   })
   .setFooter(
     "Made with ❤️ by Bhuvnesh",
