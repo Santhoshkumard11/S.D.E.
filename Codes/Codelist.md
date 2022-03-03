@@ -43,9 +43,11 @@ This list contains list of all the codes that are already added or will be added
 | Exponential Search       | :white_large_square: | :white_large_square: | :white_large_square: |
 | Floyd Warshall Algorithm | :white_large_square: | :white_large_square: | :white_large_square: |
 | Hauffman coding          | :white_large_square: | :white_large_square: | :white_large_square: |
-| Heap Sort                | :white_large_square: | :white_large_square: | :white_large_square: |
+| Heap Sort                | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | Hierholzer's Algorithm   | :white_large_square: | :white_large_square: | :white_large_square: |
-| Insertion Sort           | :white_large_square: | :white_check_mark:   | :white_large_square: |
+| Iterative Insertion Sort | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
+| Iterative Merge Sort     | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
+| Iterative Quick Sort     | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | Interpolation Search     | :white_large_square: | :white_large_square: | :white_large_square: |
 | Johnson's Algorithm      | :white_large_square: | :white_large_square: | :white_large_square: |
 | Jump Search              | :white_large_square: | :white_large_square: | :white_large_square: |
@@ -60,6 +62,9 @@ This list contains list of all the codes that are already added or will be added
 | Quick Sort               | :white_large_square: | :white_large_square: | :white_large_square: |
 | Rabin-Karp Algorithm     | :white_large_square: | :white_large_square: | :white_large_square: |
 | Radix Sort               | :white_large_square: | :white_large_square: | :white_large_square: |
+| Recursive Insertion Sort | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
+| Recursive Merge Sort     | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
+| Recursive Quick Sort     | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | Selection Sort           | :white_large_square: | :white_large_square: | :white_large_square: |
 | Shell Sort               | :white_large_square: | :white_large_square: | :white_large_square: |
 | Sieve of Erastosthenes   | :white_large_square: | :white_large_square: | :white_large_square: |
