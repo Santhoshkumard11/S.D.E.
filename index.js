@@ -152,7 +152,7 @@ client.on("ready", () => {
 
 client.on("guildCreate", (guild) => {
   guild.systemChannel.send(
-    "Hello, I'm S.D.E. ! Thanks for inviting me, I am here to you help you write code for various Data structures, Algorithms and coding problems!\n\nTo see list of all the commands I listen to ,say '+'\n\nJust in case you want to see me grow me old, you can join my development server :  https://bit.ly/3vpfZOx",
+    `Hello, Let me Introduce myself first.🙆🏻\n I am a bot who was a CSE student, graduated in 2015 from Discord university located in our "Bot - world" and working full time at Discord since then. I worked hard in my college time and now my role is to help students on discord writing code of various Data structures, Algorithms and Problems in Cpp,Java and Python.\n\nTo see list of all the commands I listen to ,say '+' . Till then let me just look around your server.👀\n\nBugs and suggestions are welcomed here :  https://bit.ly/3vpfZOx`,
     { files: ["https://i.ibb.co/P1WgdnS/sde.png"] }
   );
 });
