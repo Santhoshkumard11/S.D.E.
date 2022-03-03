@@ -6,8 +6,7 @@ const Embed3 = new Discord.MessageEmbed()
   .addFields(
     {
       name: "Problems (p-code):",
-      value:
-        "◽Search In Matrix [Cpp/Java/Python] (001)\n◽Spiral Print [Cpp] (002)\n",
+      value: `◽Search In Matrix [Cpp/Java/Python] (001)\n◽Spiral Print [Cpp] (002)\n\n`,
     },
     {
       name: "Use commands Like this:",

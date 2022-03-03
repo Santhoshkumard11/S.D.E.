@@ -6,8 +6,7 @@ const Embed3 = new Discord.MessageEmbed()
   .addFields(
     {
       name: "Data Structures [Available In] (ds-code):",
-      value:
-        "◽Arrays [Cpp] (001)\n◽Circular LL [Cpp] (002)\n◽Circular Doubly LL [Cpp] (003)\n◽Doubly LL [Cpp/Java/Python] (004)\n◽Queue Using Array [Cpp/Java/Python] (005)\n◽Queue Using LL [Cpp/Java/Python] (006)\n◽Singly LL [Cpp/Java/Python] (007)\n◽Stack Using Array [Cpp/Java/Python] (008)\n◽Stack Using LL [Cpp/Java/Python] (009)\n",
+      value: `◽Arrays [Cpp] (001)\n◽Circular LL [Cpp] (002)\n◽Circular Doubly LL [Cpp] (003)\n◽Doubly LL [Cpp/Java/Python] (004)\n◽Queue Using Array [Cpp/Java/Python] (005)\n◽Queue Using LL [Cpp/Java/Python] (006)\n◽Singly LL [Cpp/Java/Python] (007)\n◽Stack Using Array [Cpp/Java/Python] (008)\n◽Stack Using LL [Cpp/Java/Python] (009)\n\n`,
     },
     {
       name: "Use commands Like this:",
